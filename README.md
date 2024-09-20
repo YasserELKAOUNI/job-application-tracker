@@ -150,4 +150,4 @@ Ce projet est un **work in progress**, conçu pour évoluer et s'améliorer avec
 
 
 ## Licence
-Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
+Ce projet est sous licence Apache 2.0 LICENSE - voir le fichier LICENSE pour plus de détails.
