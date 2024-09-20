@@ -86,11 +86,12 @@ Suivez ces étapes pour installer le projet en local :
 
 1. **Clonez le dépôt :**
    ```bash
-   git clone https://github.com/yourusername/job-application-tracker.git
+   git clone git@github.com:YasserELKAOUNI/job-application-tracker.git
    ```
 
 2. **Installez les dépendances :**
    ```bash
+   cd job-application-tracker
    npm install
    ```
 
