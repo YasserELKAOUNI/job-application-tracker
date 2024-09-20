@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "company": "Tech Innovators Inc.",
+      "position": "Frontend Developer",
+      "status": "Applied",
+      "date": "2023-10-01"
+    },
+    {
+      "id": 2,
+      "company": "Creative Solutions LLC",
+      "position": "UI/UX Designer",
+      "status": "Interview",
+      "date": "2023-10-05"
+    },
+    {
+      "id": 3,
+      "company": "Data Analytics Corp.",
+      "position": "Data Scientist",
+      "status": "Offer",
+      "date": "2023-10-10"
+    },
+    {
+      "id": 4,
+      "company": "Cloud Services Ltd.",
+      "position": "Backend Engineer",
+      "status": "Rejected",
+      "date": "2023-10-15"
+    },
+    {
+      "id": 5,
+      "company": "AI Pioneers",
+      "position": "Machine Learning Engineer",
+      "status": "Applied",
+      "date": "2023-10-20"
+    }
+  ]

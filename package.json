@@ -1,0 +1,25 @@
+{
+  "name": "job-app-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-chartjs-2": "^5.2.0",
+    "chart.js": "^4.3.0",
+    "xlsx": "^0.16.9",
+    "tailwindcss": "^3.4.12",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47"
+  },
+  "devDependencies": {
+    "vite": "^5.4.6",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}
