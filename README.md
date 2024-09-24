@@ -16,7 +16,11 @@
 
 ## Description
 
-**Job Application Tracker** est une application web conçue pour aider les utilisateurs à gérer et suivre leurs candidatures de manière efficace. L'app permet l'importation de données à partir de fichiers Excel, CSV, ou JSON, et propose des visualisations pour suivre le statut de chaque candidature. Développée avec un focus particulier sur l'expérience utilisateur et la flexibilité, elle vise à simplifier le processus de recherche d'emploi.
+**Job Application Tracker** est une application web conçue pour aider les utilisateurs à gérer et suivre leurs candidatures de manière efficace. L'app permet l'importation de données à partir de fichiers Excel, CSV, ou JSON, et propose des visualisations pour suivre le statut de chaque candidature. Développée avec un focus particulier sur l'expérience utilisateur et la flexibilité, elle vise à simplifier le processus de recherche d'emploi. 
+
+## Note 
+
+Je ne suis pas un grand connaisseur de javascript , j'utilse les modèles chatgpt (GPT4o et O1-Preview ) pour m'aider et apprendre . 
 
 ## Fonctionnalités
 
@@ -144,7 +148,7 @@ Nous apprécions toutes contributions ! Si vous souhaitez améliorer l'applicati
 
 ## Auteur
 
-**Yasser** – Je suis diplômé en Data Science, avec un intérêt particulier pour le Data Engineering. Ce projet a commencé comme un **side-project** pour m'aider à mieux organiser mes candidatures pendant ma recherche d'emploi. Je fais aussi du développement web, car c'est un domaine qui m'intéresse et qui complète bien mon expertise en ingénierie des données.
+**Yasser** – Je suis diplômé en Data Science, avec un intérêt particulier pour le Data Engineering. Ce projet a commencé comme un **side-project** pour m'aider à mieux organiser mes candidatures pendant ma recherche d'emploi. Je fais aussi du (un petit peu développement web) à l'aide des modèles chatgpt (O1-Preview) .
 
 Ce projet est un **work in progress**, conçu pour évoluer et s'améliorer avec le temps. J'ai choisi de le partager avec la communauté pour encourager les retours et les contributions, dans un esprit d'apprentissage continu et d'amélioration.
 
